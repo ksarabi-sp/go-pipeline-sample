@@ -1,4 +1,4 @@
-# Go Sample Pipelines in Harness testing1 PR changesff
+# Go Sample Pipelines in Harness testing1 PR changes
 
 Introduction
 ========================
